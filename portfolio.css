@@ -1,0 +1,27 @@
+
+body{
+    background-color: black;
+    color: white;
+    
+}
+
+.img{
+    border: 2px solid red;
+    border-radius: 10em;
+    border-style: none;    
+    
+}
+
+p{
+    line-height: 1.5;
+}
+a:visited{
+    color: lightskyblue;
+}
+a:hover{
+color: aliceblue;
+}
+
+.copyright{
+    text-align: center;
+}
